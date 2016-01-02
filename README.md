@@ -2,5 +2,5 @@
 # Rocket-Handicraft
 A very simple business application to create offers, bills and other documents.
 
-# Download(https://ci.appveyor.com/project/RocketRider/rocket-handicraft/build/artifacts)
+# [Download](https://ci.appveyor.com/project/RocketRider/rocket-handicraft/build/artifacts)
 
