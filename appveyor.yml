@@ -1,2 +1,4 @@
 build:
   project: Rocket-Handicraft\Rocket-Handicraft.sln
+before_build:
+  - nuget restore
