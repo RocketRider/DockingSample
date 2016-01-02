@@ -7,5 +7,6 @@ build:
   project: Rocket-Handicraft\Rocket-Handicraft.sln
   
 artifacts:
-  - path: Rocket-Handicraft\bin\$(configuration)
+  - path: 'Rocket-Handicraft\Rocket-Handicraft\bin\$(configuration)'
     name: Rocket-Handicraf
+    type: zip
