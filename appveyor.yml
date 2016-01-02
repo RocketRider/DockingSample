@@ -3,5 +3,5 @@ build:
 before_build:
   - nuget restore Rocket-Handicraft\Rocket-Handicraft.sln
 artifacts:
-  - path: Rocket-Handicraft\Rocket-Handicraft\bin\$(configuration)
+  - path: bin\$(configuration)
     name: Rocket-Handicraf
